@@ -1,6 +1,6 @@
 package caculation;
 
-public class Caculation {
+public class Calculation {
 
     int sum(int a, int b) {
         return a + b;
