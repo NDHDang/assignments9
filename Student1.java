@@ -13,8 +13,8 @@ public class Student1 {
     }
     
     public static void main(String[] args) {
-        Student1 stu = new Student1(1, "Hoang");
-        Student1 stu1 = new Student1(2, "Minh");
+        Student1 stu = new Student1(1, "Nam");
+        Student1 stu1 = new Student1(2, "Lan");
         stu.displayInformation();
         stu1.displayInformation();
     }
